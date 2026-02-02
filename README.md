@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Portfolio Banner" width="500"/>
+  <img src="BannerPortfolio.png" alt="Portfolio Banner" width="500"/>
 </p>
 
 # 👨‍💻 Preetesh Sharma – Developer Portfolio
@@ -103,7 +103,7 @@ Portfolio/
 
 ## 🌐 Live Demo
 
-🚀 **Live Website:** *((https://preetesh1.github.io/Portfolio/))*
+🚀 **Live Website:** https://preetesh1.github.io/Portfolio/
 📄 **Resume:** Available for download inside the portfolio
 
 ---
