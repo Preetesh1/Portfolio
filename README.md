@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 <p align="center">
-  <img src="BannerPortfolio2.png" alt="Portfolio Banner" width="300"/>
+  <img src="#" alt="Portfolio Banner" width="300"/>
 </p>
 
 # 👨‍💻 Preetesh Sharma – Developer Portfolio
