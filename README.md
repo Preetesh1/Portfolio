@@ -103,7 +103,7 @@ Portfolio/
 
 ## 🌐 Live Demo
 
-🚀 **Live Website:** *(Add your deployed link here)*
+🚀 **Live Website:** *((https://preetesh1.github.io/Portfolio/))*
 📄 **Resume:** Available for download inside the portfolio
 
 ---
@@ -125,7 +125,3 @@ All rights are reserved by the author.
 **Unauthorized copying, reuse, or redistribution of this code or design is strictly prohibited.**
 
 🛡️ © 2025 Preetesh Sharma | All Rights Reserved
-
-```
-
----
