@@ -4,9 +4,9 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
-<p align="center">
+<!-- <p align="center">
   <img src="#" alt="Portfolio Banner" width="300"/>
-</p>
+</p> -->
 
 # 👨‍💻 Preetesh Sharma – Developer Portfolio
 
